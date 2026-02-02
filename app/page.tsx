@@ -437,7 +437,7 @@ export default function Home() {
 
             <div className="relative h-[750px] bg-[#F5F0E8] rounded-2xl overflow-hidden shadow-2xl group">
               <Image
-                src="https://images.unsplash.com/photo-1523906834658-6e24ef2386f9?w=1000&q=80"
+                src="https://images.unsplash.com/photo-1562883676-8c7feb83f09b?w=1000&q=80"
                 alt="Barcelona Eixample"
                 fill
                 className="object-cover group-hover:scale-105 transition-transform duration-1000"
